@@ -36,10 +36,6 @@ To analyze sales trends and build a forecasting model that predicts future sales
 - Improve accuracy with feature engineering
 
 ## 📁 Project Structure
-|- data/
-|- notebooks/
-|- src/
-└- requirements.txt
 
 ├── data/
 ├── notebooks/
@@ -49,3 +45,9 @@ To analyze sales trends and build a forecasting model that predicts future sales
 
 ## 👤 Author
 Hamzat Afe Isede
+
+## 🔗 Related Projects
+
+- Customer Churn Prediction
+- Customer Segmentation
+- Sales Dashboard (Power BI)
