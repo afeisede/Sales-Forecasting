@@ -36,12 +36,13 @@ To analyze sales trends and build a forecasting model that predicts future sales
 - Improve accuracy with feature engineering
 
 ## 📁 Project Structure
-
+```
+sales-forecasting/
 ├── data/
 ├── notebooks/
 ├── src/
 └── requirements.txt
-
+```
 
 ## 👤 Author
 Hamzat Afe Isede
